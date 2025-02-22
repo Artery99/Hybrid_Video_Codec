@@ -1,0 +1,1496 @@
+22-Feb-2020 06:14:15: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     0.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+         7.63                   31.44 
+         7.42                   32.11 
+         7.37                   32.16 
+         7.72                   30.25 
+         7.64                   31.48 
+         7.38                   31.73 
+         7.40                   31.87 
+         7.78                   30.69 
+         7.54                   32.05 
+         7.55                   32.73 
+         7.49                   33.07 
+         8.02                   31.69 
+         7.89                   33.58 
+         7.72                   33.92 
+         7.67                   34.74 
+         8.18                   33.63 
+         8.07                   35.38 
+         7.73                   35.78 
+         7.74                   36.35 
+----Size of encoded video(in k.byte):          153.65 
+----Encoding duration(s):                      184.66 
+22-Feb-2020 06:17:20: ENCODING FINISHED 
+22-Feb-2020 06:20:27: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+         8.73                   30.72 
+         8.66                   30.96 
+         8.75                   30.93 
+         7.72                   30.25 
+22-Feb-2020 06:21:20: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     10000.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+         8.73                   30.72 
+         8.66                   30.94 
+22-Feb-2020 06:22:03: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     -10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+         4.43                   26.75 
+         4.38                   25.59 
+         4.23                   24.54 
+         7.72                   30.25 
+         4.45                   27.09 
+         3.97                   25.59 
+         4.20                   24.95 
+         7.78                   30.69 
+         4.45                   27.33 
+         4.27                   26.22 
+         4.10                   25.35 
+         8.02                   31.69 
+         4.97                   29.17 
+         4.69                   27.69 
+         4.75                   26.81 
+         8.18                   33.63 
+         4.65                   29.97 
+         4.34                   28.95 
+         4.12                   27.89 
+----Size of encoded video(in k.byte):          105.42 
+----Encoding duration(s):                      185.41 
+22-Feb-2020 06:25:08: ENCODING FINISHED 
+22-Feb-2020 06:29:55: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     -10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+22-Feb-2020 06:31:19: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     -10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+         4.43                   26.75 
+         4.38                   25.59 
+         4.23                   24.54 
+         7.72                   30.25 
+22-Feb-2020 06:39:32: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     -10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+         4.43                   26.75 
+22-Feb-2020 06:42:37: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     -10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+22-Feb-2020 06:43:00: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     -10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+22-Feb-2020 06:43:22: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     -10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+22-Feb-2020 06:44:55: START ENCODER  
+----Number of frame to encode:                 20 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+         4.43                   26.72 
+         4.38                   25.49 
+         4.22                   24.39 
+         7.72                   30.25 
+         4.45                   27.06 
+         3.97                   25.55 
+         4.20                   24.86 
+         7.78                   30.69 
+22-Feb-2020 06:49:09: START ENCODER  
+----Number of frame to encode:                 80 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+         4.43                   26.72 
+         4.38                   25.49 
+         4.22                   24.39 
+         7.72                   30.25 
+         4.45                   27.06 
+         3.97                   25.55 
+         4.20                   24.86 
+         7.78                   30.69 
+         4.45                   27.26 
+         4.28                   26.15 
+         4.10                   25.25 
+         8.02                   31.69 
+         4.97                   29.02 
+         4.68                   27.58 
+         4.75                   26.71 
+         8.18                   33.63 
+         4.65                   29.91 
+         4.33                   28.86 
+         4.11                   27.79 
+         8.24                   34.81 
+         4.22                   29.58 
+         4.27                   27.22 
+         4.37                   26.13 
+         8.21                   33.57 
+         4.60                   30.48 
+         4.38                   29.61 
+         3.65                   28.14 
+         8.36                   35.59 
+         3.99                   31.27 
+         4.08                   28.78 
+         4.09                   26.97 
+         8.25                   34.33 
+         4.35                   29.35 
+         4.17                   27.41 
+         4.36                   27.16 
+         8.13                   33.64 
+         4.48                   28.92 
+         4.41                   27.17 
+         4.17                   26.56 
+         7.82                   33.01 
+         4.39                   28.90 
+         4.35                   27.99 
+         3.99                   27.07 
+         7.83                   33.30 
+         4.31                   29.05 
+         4.29                   26.53 
+         4.35                   25.93 
+         7.92                   31.62 
+         4.67                   28.76 
+         4.35                   27.94 
+         4.20                   27.43 
+         8.19                   33.71 
+         4.33                   30.99 
+         4.79                   30.10 
+         4.58                   28.82 
+         8.64                   34.82 
+         4.73                   30.45 
+         4.48                   28.69 
+         4.17                   27.17 
+         8.34                   34.67 
+         4.68                   30.48 
+         4.41                   28.44 
+         4.23                   27.00 
+         8.10                   32.92 
+         4.43                   27.83 
+         4.41                   26.98 
+         4.46                   25.98 
+         7.90                   32.47 
+         4.47                   27.90 
+         4.41                   26.33 
+         4.40                   25.58 
+         7.44                   30.25 
+         4.35                   26.87 
+         4.22                   25.36 
+         4.09                   24.26 
+         7.62                   29.76 
+         4.70                   26.65 
+         4.73                   26.40 
+         4.77                   26.35 
+----Size of encoded video(in k.byte):          422.76 
+----Encoding duration(s):                      741.44 
+22-Feb-2020 07:01:31: ENCODING FINISHED 
+22-Feb-2020 07:12:55: START ENCODER  
+----Number of frame to encode:                 8 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+22-Feb-2020 07:15:39: START ENCODER  
+----Number of frame to encode:                 8 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+22-Feb-2020 07:16:29: START ENCODER  
+----Number of frame to encode:                 8 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+22-Feb-2020 07:23:59: START ENCODER  
+----Number of frame to encode:                 8 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+         11.97                   17.92 
+         6.81                   16.22 
+         6.75                   15.63 
+         6.26                   15.23 
+         11.93                   17.69 
+         6.82                   16.62 
+         5.67                   15.96 
+22-Feb-2020 20:31:27: START ENCODER  
+----Number of frame to encode:                 8 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+22-Feb-2020 20:32:25: START ENCODER  
+----Number of frame to encode:                 8 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+         11.97                   17.92 
+         6.81                   16.22 
+         6.75                   15.63 
+         6.26                   15.23 
+         11.93                   17.69 
+         6.82                   16.62 
+         5.67                   15.96 
+         6.67                   15.59 
+----Size of encoded video(in k.byte):          62.88 
+----Encoding duration(s):                      627.80 
+22-Feb-2020 20:42:53: ENCODING FINISHED 
+22-Feb-2020 20:48:48: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+         11.97                   17.92 
+         6.81                   16.22 
+----Size of encoded video(in k.byte):          18.78 
+----Encoding duration(s):                      101.50 
+22-Feb-2020 20:50:30: ENCODING FINISHED 
+22-Feb-2020 20:50:30: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+         11.97                   17.92 
+         6.81                   16.22 
+----Size of encoded video(in k.byte):          18.78 
+----Encoding duration(s):                      110.12 
+22-Feb-2020 20:52:20: ENCODING FINISHED 
+28-Feb-2020 21:05:04: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+         11.97                   17.92 
+         6.81                   16.22 
+----Size of encoded video(in k.byte):          18.78 
+----Encoding duration(s):                      103.15 
+28-Feb-2020 21:06:48: ENCODING FINISHED 
+28-Feb-2020 21:08:47: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.89                   54.80 
+         3.37                   44.47 
+----Size of encoded video(in k.byte):          8.26 
+----Encoding duration(s):                      44.80 
+28-Feb-2020 21:09:32: ENCODING FINISHED 
+28-Feb-2020 21:12:23: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.89                   54.80 
+         3.37                   44.47 
+         3.34                   41.10 
+         3.28                   38.95 
+----Size of encoded video(in k.byte):          14.88 
+----Encoding duration(s):                      128.41 
+28-Feb-2020 21:14:32: ENCODING FINISHED 
+03-Mar-2020 14:11:26: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.89                   54.80 
+         3.37                   44.47 
+----Size of encoded video(in k.byte):          8.26 
+----Encoding duration(s):                      44.80 
+03-Mar-2020 14:12:11: ENCODING FINISHED 
+03-Mar-2020 14:17:35: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.89                   54.80 
+----Size of encoded video(in k.byte):          4.89 
+----Encoding duration(s):                      7.61 
+03-Mar-2020 14:17:43: ENCODING FINISHED 
+03-Mar-2020 14:20:18: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.89                   54.80 
+----Size of encoded video(in k.byte):          4.89 
+----Encoding duration(s):                      7.49 
+03-Mar-2020 14:20:26: ENCODING FINISHED 
+03-Mar-2020 14:23:55: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.89                   54.80 
+----Size of encoded video(in k.byte):          4.89 
+----Encoding duration(s):                      7.13 
+03-Mar-2020 14:24:02: ENCODING FINISHED 
+03-Mar-2020 14:25:15: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.89                   54.80 
+----Size of encoded video(in k.byte):          4.89 
+----Encoding duration(s):                      6.31 
+03-Mar-2020 14:25:21: ENCODING FINISHED 
+03-Mar-2020 14:25:43: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.89                   54.80 
+         3.37                   44.47 
+----Size of encoded video(in k.byte):          8.26 
+----Encoding duration(s):                      54.94 
+03-Mar-2020 14:26:38: ENCODING FINISHED 
+03-Mar-2020 14:29:02: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+         11.97                   17.92 
+         6.81                   16.22 
+----Size of encoded video(in k.byte):          18.78 
+----Encoding duration(s):                      88.78 
+03-Mar-2020 14:30:30: ENCODING FINISHED 
+03-Mar-2020 14:51:23: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2.500000e-01 
+----Size of frame(k.byte)        MSE
+         18.11                   9.77 
+03-Mar-2020 14:53:08: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2.500000e-01 
+----Size of frame(k.byte)        MSE
+         18.11                   9.77 
+         11.33                   9.32 
+----Size of encoded video(in k.byte):          29.45 
+----Encoding duration(s):                      130.42 
+03-Mar-2020 14:55:19: ENCODING FINISHED 
+03-Mar-2020 22:23:34: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2.500000e-01 
+----Size of frame(k.byte)        MSE
+         18.11                   9.77 
+03-Mar-2020 22:27:01: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.72                   30.66 
+         4.43                   26.72 
+----Size of encoded video(in k.byte):          12.15 
+----Encoding duration(s):                      84.83 
+03-Mar-2020 22:28:26: ENCODING FINISHED 
+03-Mar-2020 22:31:46: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      79.67 
+03-Mar-2020 22:33:06: ENCODING FINISHED 
+03-Mar-2020 22:36:10: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2.500000e-01 
+----Size of frame(k.byte)        MSE
+         18.46                   9.77 
+         11.34                   9.26 
+----Size of encoded video(in k.byte):          29.81 
+----Encoding duration(s):                      194.93 
+03-Mar-2020 22:39:25: ENCODING FINISHED 
+03-Mar-2020 23:31:33: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+         12.15                   17.92 
+         6.82                   16.22 
+----Size of encoded video(in k.byte):          18.97 
+----Encoding duration(s):                      102.60 
+03-Mar-2020 23:33:16: ENCODING FINISHED 
+03-Mar-2020 23:37:04: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+----Size of encoded video(in k.byte):          7.79 
+----Encoding duration(s):                      0.98 
+03-Mar-2020 23:37:05: ENCODING FINISHED 
+04-Mar-2020 13:10:07: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      68.63 
+04-Mar-2020 13:11:16: ENCODING FINISHED 
+04-Mar-2020 23:18:21: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+04-Mar-2020 23:19:15: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+----Size of encoded video(in k.byte):          7.79 
+----Encoding duration(s):                      1.18 
+04-Mar-2020 23:19:16: ENCODING FINISHED 
+04-Mar-2020 23:22:06: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.92                   54.80 
+----Size of encoded video(in k.byte):          4.92 
+----Encoding duration(s):                      0.81 
+04-Mar-2020 23:22:07: ENCODING FINISHED 
+04-Mar-2020 23:23:37: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        3 
+----Size of frame(k.byte)        MSE
+         3.77                   78.63 
+----Size of encoded video(in k.byte):          3.77 
+----Encoding duration(s):                      0.76 
+04-Mar-2020 23:23:38: ENCODING FINISHED 
+04-Mar-2020 23:24:32: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        4 
+----Size of frame(k.byte)        MSE
+         3.07                   104.80 
+----Size of encoded video(in k.byte):          3.07 
+----Encoding duration(s):                      0.71 
+04-Mar-2020 23:24:33: ENCODING FINISHED 
+04-Mar-2020 23:25:18: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5 
+----Size of frame(k.byte)        MSE
+         2.65                   133.25 
+----Size of encoded video(in k.byte):          2.65 
+----Encoding duration(s):                      0.65 
+04-Mar-2020 23:25:18: ENCODING FINISHED 
+04-Mar-2020 23:26:11: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        6 
+----Size of frame(k.byte)        MSE
+         2.37                   163.38 
+----Size of encoded video(in k.byte):          2.37 
+----Encoding duration(s):                      0.57 
+04-Mar-2020 23:26:11: ENCODING FINISHED 
+04-Mar-2020 23:27:02: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        7 
+----Size of frame(k.byte)        MSE
+         2.12                   192.83 
+----Size of encoded video(in k.byte):          2.12 
+----Encoding duration(s):                      0.62 
+04-Mar-2020 23:27:03: ENCODING FINISHED 
+04-Mar-2020 23:27:38: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        8 
+----Size of frame(k.byte)        MSE
+         1.95                   238.16 
+----Size of encoded video(in k.byte):          1.95 
+----Encoding duration(s):                      0.54 
+04-Mar-2020 23:27:39: ENCODING FINISHED 
+04-Mar-2020 23:28:07: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        9 
+----Size of frame(k.byte)        MSE
+         1.80                   257.06 
+----Size of encoded video(in k.byte):          1.80 
+----Encoding duration(s):                      0.67 
+04-Mar-2020 23:28:08: ENCODING FINISHED 
+04-Mar-2020 23:28:46: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        10 
+----Size of frame(k.byte)        MSE
+         1.67                   308.39 
+----Size of encoded video(in k.byte):          1.67 
+----Encoding duration(s):                      0.59 
+04-Mar-2020 23:28:46: ENCODING FINISHED 
+04-Mar-2020 23:29:21: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+         12.15                   17.92 
+----Size of encoded video(in k.byte):          12.15 
+----Encoding duration(s):                      1.86 
+04-Mar-2020 23:29:23: ENCODING FINISHED 
+04-Mar-2020 23:32:25: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        3.333333e-01 
+----Size of frame(k.byte)        MSE
+         15.56                   12.79 
+----Size of encoded video(in k.byte):          15.56 
+----Encoding duration(s):                      2.70 
+04-Mar-2020 23:32:28: ENCODING FINISHED 
+04-Mar-2020 23:35:16: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2.500000e-01 
+----Size of frame(k.byte)        MSE
+         18.46                   9.77 
+----Size of encoded video(in k.byte):          18.46 
+----Encoding duration(s):                      4.11 
+04-Mar-2020 23:35:20: ENCODING FINISHED 
+04-Mar-2020 23:40:13: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2.000000e-01 
+----Size of frame(k.byte)        MSE
+         20.96                   8.02 
+----Size of encoded video(in k.byte):          20.96 
+----Encoding duration(s):                      4.72 
+04-Mar-2020 23:40:18: ENCODING FINISHED 
+04-Mar-2020 23:42:48: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1.666667e-01 
+----Size of frame(k.byte)        MSE
+         23.18                   6.70 
+----Size of encoded video(in k.byte):          23.18 
+----Encoding duration(s):                      4.91 
+04-Mar-2020 23:42:53: ENCODING FINISHED 
+04-Mar-2020 23:46:16: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1.428571e-01 
+----Size of frame(k.byte)        MSE
+         25.23                   5.74 
+----Size of encoded video(in k.byte):          25.23 
+----Encoding duration(s):                      5.88 
+04-Mar-2020 23:46:22: ENCODING FINISHED 
+05-Mar-2020 00:40:19: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1.428571e-01 
+----Size of frame(k.byte)        MSE
+         25.23                   5.74 
+         17.05                   5.86 
+----Size of encoded video(in k.byte):          42.28 
+----Encoding duration(s):                      238.97 
+05-Mar-2020 00:44:19: ENCODING FINISHED 
+05-Mar-2020 00:51:39: START ENCODER  
+----Number of frame to encode:                 3 
+----GOP Structure:                             3 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+----Size of encoded video(in k.byte):          16.62 
+----Encoding duration(s):                      144.52 
+05-Mar-2020 00:54:03: ENCODING FINISHED 
+05-Mar-2020 17:22:40: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+05-Mar-2020 17:22:58: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+----Size of encoded video(in k.byte):          7.79 
+----Encoding duration(s):                      1.51 
+05-Mar-2020 17:22:59: ENCODING FINISHED 
+05-Mar-2020 17:25:04: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+----Size of encoded video(in k.byte):          7.79 
+----Encoding duration(s):                      1.02 
+05-Mar-2020 17:25:05: ENCODING FINISHED 
+05-Mar-2020 20:48:38: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+05-Mar-2020 20:48:40: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+05-Mar-2020 20:49:07: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+05-Mar-2020 20:49:09: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+05-Mar-2020 20:50:42: START ENCODER  
+----Number of frame to encode:                 3 
+----GOP Structure:                             3 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+05-Mar-2020 20:54:14: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+         4.23                   24.41 
+05-Mar-2020 20:57:29: START ENCODER  
+----Number of frame to encode:                 5 
+----GOP Structure:                             5 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+         4.23                   24.41 
+         4.26                   24.09 
+05-Mar-2020 21:01:53: START ENCODER  
+----Number of frame to encode:                 6 
+----GOP Structure:                             6 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+         4.23                   24.41 
+         4.26                   24.09 
+         4.22                   24.17 
+05-Mar-2020 21:08:40: START ENCODER  
+----Number of frame to encode:                 7 
+----GOP Structure:                             7 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+         4.23                   24.41 
+         4.26                   24.09 
+         4.22                   24.17 
+         3.83                   23.56 
+05-Mar-2020 21:16:46: START ENCODER  
+----Number of frame to encode:                 8 
+----GOP Structure:                             8 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+         4.23                   24.41 
+         4.26                   24.09 
+         4.22                   24.17 
+         3.83                   23.56 
+         4.16                   23.41 
+05-Mar-2020 21:24:20: START ENCODER  
+----Number of frame to encode:                 9 
+----GOP Structure:                             9 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+         4.23                   24.41 
+         4.26                   24.09 
+         4.22                   24.17 
+         3.83                   23.56 
+         4.16                   23.41 
+         4.05                   22.73 
+05-Mar-2020 21:33:17: START ENCODER  
+----Number of frame to encode:                 10 
+----GOP Structure:                             10 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+         4.23                   24.41 
+         4.26                   24.09 
+         4.22                   24.17 
+         3.83                   23.56 
+         4.16                   23.41 
+         4.05                   22.73 
+         4.18                   23.19 
+----Size of encoded video(in k.byte):          45.55 
+----Encoding duration(s):                      615.12 
+05-Mar-2020 21:43:32: ENCODING FINISHED 
+07-Mar-2020 16:37:31: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      87.68 
+07-Mar-2020 16:38:59: ENCODING FINISHED 
+07-Mar-2020 16:39:25: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+----Size of encoded video(in k.byte):          7.79 
+----Encoding duration(s):                      1.13 
+07-Mar-2020 16:39:26: ENCODING FINISHED 
+07-Mar-2020 16:40:08: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.92                   54.80 
+         3.37                   44.45 
+----Size of encoded video(in k.byte):          8.29 
+----Encoding duration(s):                      71.89 
+07-Mar-2020 16:41:20: ENCODING FINISHED 
+07-Mar-2020 16:41:51: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        3 
+----Size of frame(k.byte)        MSE
+         3.77                   78.63 
+         3.10                   59.00 
+----Size of encoded video(in k.byte):          6.87 
+----Encoding duration(s):                      64.65 
+07-Mar-2020 16:42:56: ENCODING FINISHED 
+07-Mar-2020 17:24:22: START ENCODER  
+----Number of frame to encode:                 3 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        3 
+----Size of frame(k.byte)        MSE
+         3.77                   78.63 
+         3.72                   78.02 
+         3.73                   77.52 
+----Size of encoded video(in k.byte):          11.21 
+----Encoding duration(s):                      2.35 
+07-Mar-2020 17:24:25: ENCODING FINISHED 
+07-Mar-2020 17:24:44: START ENCODER  
+----Number of frame to encode:                 10 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         7.73                   30.51 
+         7.64                   30.53 
+         7.73                   30.67 
+         7.79                   30.25 
+         7.76                   30.64 
+         7.80                   30.55 
+         7.83                   30.57 
+         7.86                   30.69 
+         7.88                   30.87 
+----Size of encoded video(in k.byte):          77.82 
+----Encoding duration(s):                      11.17 
+07-Mar-2020 17:24:55: ENCODING FINISHED 
+07-Mar-2020 18:42:13: START ENCODER  
+----Number of frame to encode:                 10 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         7.73                   30.51 
+         7.64                   30.53 
+         7.73                   30.67 
+         7.79                   30.25 
+         7.76                   30.64 
+         7.80                   30.55 
+         7.83                   30.57 
+         7.86                   30.69 
+         7.88                   30.87 
+----Size of encoded video(in k.byte):          77.82 
+----Encoding duration(s):                      12.94 
+07-Mar-2020 18:42:26: ENCODING FINISHED 
+07-Mar-2020 18:43:25: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        3 
+----Size of frame(k.byte)        MSE
+         3.77                   78.63 
+         3.10                   59.00 
+----Size of encoded video(in k.byte):          6.87 
+----Encoding duration(s):                      42.37 
+07-Mar-2020 18:44:07: ENCODING FINISHED 
+10-Mar-2020 12:23:55: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1.666667e-01 
+----Size of frame(k.byte)        MSE
+         23.18                   6.70 
+         15.34                   6.54 
+         15.15                   6.72 
+         14.17                   6.51 
+----Size of encoded video(in k.byte):          67.84 
+----Encoding duration(s):                      619.03 
+10-Mar-2020 12:34:14: ENCODING FINISHED 
+10-Mar-2020 13:06:33: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2.000000e-01 
+----Size of frame(k.byte)        MSE
+         20.96                   8.02 
+         13.41                   7.72 
+         13.25                   8.00 
+         12.38                   7.64 
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2.500000e-01 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        3.333333e-01 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        3 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        4 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        6 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        7 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        8 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        9 
+----Size of frame(k.byte)        MSE
+10-Mar-2020 13:15:00: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        10 
+----Size of frame(k.byte)        MSE
+----Size of encoded video(in k.byte):          60.01 
+----Encoding duration(s):                      0.00 
+10-Mar-2020 13:15:00: ENCODING FINISHED 
+10-Mar-2020 13:21:33: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2.500000e-01 
+----Size of frame(k.byte)        MSE
+         18.46                   9.77 
+         11.34                   9.26 
+         11.26                   9.13 
+         10.41                   9.04 
+10-Mar-2020 13:32:16: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        3.333333e-01 
+----Size of frame(k.byte)        MSE
+         15.56                   12.79 
+         9.14                   11.88 
+         9.01                   11.62 
+         8.38                   11.38 
+10-Mar-2020 13:42:17: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5.000000e-01 
+----Size of frame(k.byte)        MSE
+         12.15                   17.92 
+         6.82                   16.22 
+         6.78                   15.63 
+         6.27                   15.24 
+10-Mar-2020 13:50:19: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+         4.23                   24.41 
+10-Mar-2020 13:55:23: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         4.92                   54.80 
+         3.37                   44.45 
+         3.34                   41.16 
+         3.28                   39.01 
+10-Mar-2020 13:58:39: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        3 
+----Size of frame(k.byte)        MSE
+         3.77                   78.63 
+         3.10                   59.00 
+         3.07                   53.50 
+         3.06                   50.28 
+10-Mar-2020 14:00:57: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        4 
+----Size of frame(k.byte)        MSE
+         3.07                   104.80 
+         3.00                   73.82 
+         2.98                   65.36 
+         2.96                   60.34 
+10-Mar-2020 14:03:29: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        5 
+----Size of frame(k.byte)        MSE
+         2.65                   133.25 
+         2.94                   91.50 
+         2.93                   79.75 
+         2.93                   73.09 
+10-Mar-2020 14:05:37: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        6 
+----Size of frame(k.byte)        MSE
+         2.37                   163.38 
+         2.90                   102.98 
+         2.90                   88.20 
+         2.90                   80.49 
+10-Mar-2020 14:07:47: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        7 
+----Size of frame(k.byte)        MSE
+         2.12                   192.83 
+         2.90                   125.05 
+         2.88                   106.40 
+         2.88                   95.05 
+10-Mar-2020 14:09:52: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        8 
+----Size of frame(k.byte)        MSE
+         1.95                   238.16 
+         2.88                   147.58 
+         2.88                   119.94 
+         2.88                   105.10 
+10-Mar-2020 14:11:53: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        9 
+----Size of frame(k.byte)        MSE
+         1.80                   257.06 
+         2.83                   143.60 
+         2.84                   117.69 
+         2.84                   105.50 
+10-Mar-2020 14:13:47: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        10 
+----Size of frame(k.byte)        MSE
+         1.67                   308.39 
+         2.79                   183.78 
+         2.81                   150.66 
+         2.82                   131.15 
+----Size of encoded video(in k.byte):          10.10 
+----Encoding duration(s):                      106.33 
+10-Mar-2020 14:15:33: ENCODING FINISHED 
+10-Mar-2020 14:42:24: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+         4.39                   25.49 
+         4.23                   24.41 
+----Size of encoded video(in k.byte):          20.85 
+----Encoding duration(s):                      268.03 
+10-Mar-2020 14:46:52: ENCODING FINISHED 
+10-Mar-2020 14:55:26: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         5.50                   18.33 
+         3.23                   16.04 
+----Size of encoded video(in k.byte):          8.73 
+----Encoding duration(s):                      49.99 
+10-Mar-2020 14:56:16: ENCODING FINISHED 
+10-Mar-2020 15:08:09: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        2 
+----Size of frame(k.byte)        MSE
+         3.54                   36.22 
+         3.04                   29.04 
+----Size of encoded video(in k.byte):          6.58 
+----Encoding duration(s):                      52.01 
+10-Mar-2020 15:09:01: ENCODING FINISHED 
+10-Mar-2020 15:10:54: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        4 
+----Size of frame(k.byte)        MSE
+         2.26                   73.98 
+         2.85                   52.23 
+----Size of encoded video(in k.byte):          5.10 
+----Encoding duration(s):                      34.71 
+10-Mar-2020 15:11:29: ENCODING FINISHED 
+10-Mar-2020 15:18:14: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        4 
+----Size of frame(k.byte)        MSE
+         2.26                   73.98 
+----Size of encoded video(in k.byte):          2.26 
+----Encoding duration(s):                      0.63 
+10-Mar-2020 15:18:15: ENCODING FINISHED 
+10-Mar-2020 15:18:23: START ENCODER  
+----Number of frame to encode:                 1 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         5.50                   18.33 
+----Size of encoded video(in k.byte):          5.50 
+----Encoding duration(s):                      0.83 
+10-Mar-2020 15:18:24: ENCODING FINISHED 
+10-Mar-2020 23:10:33: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             1 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         5.50                   18.33 
+         5.51                   18.35 
+----Size of encoded video(in k.byte):          11.02 
+----Encoding duration(s):                      1.81 
+10-Mar-2020 23:10:35: ENCODING FINISHED 
+10-Mar-2020 23:10:54: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         5.50                   18.33 
+         3.23                   16.04 
+----Size of encoded video(in k.byte):          8.73 
+----Encoding duration(s):                      56.05 
+10-Mar-2020 23:11:50: ENCODING FINISHED 
+10-Mar-2020 23:16:17: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      69.79 
+10-Mar-2020 23:17:27: ENCODING FINISHED 
+10-Mar-2020 23:21:17: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      68.25 
+10-Mar-2020 23:22:25: ENCODING FINISHED 
+08-Mar-2022 15:06:27: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      17.59 
+08-Mar-2022 15:06:45: ENCODING FINISHED 
+08-Mar-2022 15:26:45: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      17.12 
+08-Mar-2022 15:27:03: ENCODING FINISHED 
+08-Mar-2022 16:00:56: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      16.41 
+08-Mar-2022 16:01:12: ENCODING FINISHED 
+08-Mar-2022 16:11:34: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      15.09 
+08-Mar-2022 16:11:49: ENCODING FINISHED 
+08-Mar-2022 16:13:38: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      14.97 
+08-Mar-2022 16:13:52: ENCODING FINISHED 
+08-Mar-2022 16:14:53: START ENCODER  
+----Number of frame to encode:                 2 
+----GOP Structure:                             2 
+----Alpha:                                     10.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Quantization scale:                        1 
+----Size of frame(k.byte)        MSE
+         7.79                   30.66 
+         4.44                   26.70 
+----Size of encoded video(in k.byte):          12.23 
+----Encoding duration(s):                      14.69 
+08-Mar-2022 16:15:07: ENCODING FINISHED 
+19-Mar-2022 23:52:27: START ENCODER  
+19-Mar-2022 23:53:28: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     0.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+19-Mar-2022 23:54:06: START ENCODER  
+----Number of frame to encode:                 4 
+----GOP Structure:                             4 
+----Alpha:                                     0.00 
+----Search(0 for full search, 1 for 2D Log):   0 
+----Size of frame(k.byte)        MSE
+         0.00                   30.66 
+         3.23                   28.92 
+         3.30                   29.20 
+         3.33                   29.25 
